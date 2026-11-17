@@ -2,7 +2,7 @@
 
 # 👋你好！
 
-我是 **FeatherBlaze**，一个热衷于折腾各种新东西的初中生，正在学习 Python / C++。平时喜欢玩 Minecraft。
+我是 **FeatherBlaze**，一个热衷于折腾各种新东西的初中生，正在学习 Python/C++。平时喜欢玩 Minecraft。
 
 ## 📊项目导航
 
